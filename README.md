@@ -1,4 +1,4 @@
-# Project Topics
+# **Project Topics**
 
 This document outlines two main topics, Machine Learning and SQL, each with associated sub-topics. Each sub-topic links to corresponding files. These are projects I worked on by myself, individually, with no team participation.
 
@@ -36,7 +36,11 @@ Various deep learning model using neural networks
 
 Deep Learning Report [View PDF File](Python_machineLearning/capstone2_Deep_Learning/deep_learning_report.pdf)
 
+### <u>4. Drug Overdose Modeling</u>
 
+This is a project I have been working on using publicly available data. I attempts to predict drug OD rate at the county level using various socio-economic, health and other features
+
+- Various Drug OD Models [View Jupyter File](Python_machineLearning/drug_od_analysis/python/analyze_drug_od.ipynb)
 
 ## SQL
 
